@@ -4,9 +4,9 @@ tensorflow: 1.13.1
 keras: 2.2.4  
 ## Case study - 1
 Binary image classification  
-*Dataset_source.ipynb* file creates directories of training, validation and test images
-*Dataset_utils.ipynb* file will be used to initialized X and y of model
-*model_summary.ipynb* is used to plot graph
+*Dataset_source.ipynb* file creates directories of training, validation and test images  
+*Dataset_utils.ipynb* file will be used to initialized X and y of model  
+*model_summary.ipynb* is used to plot graph  
 1. <a href="https://www.kaggle.com/c/dogs-vs-cats/data">Download dataset</a>
 2. Execute *Dataset_source.ipynb*
 3. Then all the models
